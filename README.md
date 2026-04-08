@@ -24,4 +24,4 @@ In accordance with **VibeHack Rules and Regulations**
 * **Vercel AI SDK:** Employed for integrating AI models, handling streaming responses, and rate limiting
 
 ---
-[cite_start]*Built for the Vibe Coding Hackathon by the Data Science Club.* [cite: 2, 3]
+*Built for the Vibe Coding Hackathon by the Data Science Club.* 
